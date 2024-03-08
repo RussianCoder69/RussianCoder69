@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me try to be yourself 😁👍
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am learning multiple languages at
+once
 
 <!---
 RussianCoder69/RussianCoder69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
